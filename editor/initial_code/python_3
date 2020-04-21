@@ -80,9 +80,8 @@ if __name__ == '__main__':
                         (f'The rectangle {rect} have area={area} '
                          f'and contains another area value: {grid[x][y]}.')
             assert grid_area is not None, f'{rect} contains no area value.'
-        uncovered = [(x, y) for x, row in enumerate(colored_grid)
-                     for y, cell in enumerate(row) if not cell]
-        assert not uncovered, f'{len(uncovered)} cells are still not covered.'
+        nb_uncovered = sum(not cell for row in colored_grid for cell in row)
+        assert not nb_uncovered, f'{nb_uncovered} cells are still not covered.'
 
     for test_nb, grid in enumerate(GRIDS, 1):
         result = rectangles([row[:] for row in grid])

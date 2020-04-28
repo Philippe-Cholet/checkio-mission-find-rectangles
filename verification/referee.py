@@ -71,6 +71,12 @@ def checker(grid, result):
                               list(prev_rects))
 
 
+dumb_cover_just_to_accept_sets = '''
+def cover(func, in_data):
+    return list(func(in_data))
+'''
+
+
 api.add_listener(
     ON_CONNECT,
     CheckiOReferee(
@@ -79,6 +85,10 @@ api.add_listener(
         function_name={
             'python': 'rectangles',
             # 'js': 'rectangles',
+        },
+        cover_code={
+            'python-3': dumb_cover_just_to_accept_sets,
+            # 'js-node': ...,
         },
     ).on_ready,
 )

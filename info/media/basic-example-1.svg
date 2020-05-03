@@ -14,11 +14,11 @@
    viewBox="0 0 158.75 79.374999"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="basic-example-1.svg"
-   inkscape:export-filename="P:\Dropbox\Python\CheckIO My missions\Find rectangles\basic-example-1.png"
-   inkscape:export-xdpi="82.493813"
-   inkscape:export-ydpi="82.493813">
+   inkscape:export-filename="P:\Dropbox\Python\CheckIO My missions\PUBLISHED\checkio-mission-find-rectangles\info\media\basic-example-1.png"
+   inkscape:export-xdpi="82.407616"
+   inkscape:export-ydpi="82.407616">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -29,10 +29,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.52"
-     inkscape:cx="270.27379"
+     inkscape:cx="141.98432"
      inkscape:cy="142.94638"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g1362"
      showgrid="false"
      inkscape:pagecheckerboard="true"
      units="px"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -958,7 +958,7 @@
            y="228.31348"
            x="98.999718"
            id="tspan1296"
-           sodipodi:role="line">0</tspan></text>
+           sodipodi:role="line">A</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fa8f00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -969,7 +969,7 @@
            id="tspan1300"
            x="111.29707"
            y="253.07378"
-           style="fill:#fa8f00;fill-opacity:1;stroke-width:0.26458332">1</tspan></text>
+           style="fill:#fa8f00;fill-opacity:1;stroke-width:0.26458332">B</tspan></text>
       <text
          id="text1306"
          y="265.83301"
@@ -980,7 +980,7 @@
            y="265.83301"
            x="99.130371"
            id="tspan1304"
-           sodipodi:role="line">2</tspan></text>
+           sodipodi:role="line">C</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fa8f00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -991,7 +991,7 @@
            id="tspan1308"
            x="86.73777"
            y="253.37004"
-           style="fill:#fa8f00;fill-opacity:1;stroke-width:0.26458332">3</tspan></text>
+           style="fill:#fa8f00;fill-opacity:1;stroke-width:0.26458332">D</tspan></text>
       <text
          id="text1314"
          y="277.90094"
@@ -1002,7 +1002,7 @@
            y="277.90094"
            x="86.383827"
            id="tspan1312"
-           sodipodi:role="line">4</tspan></text>
+           sodipodi:role="line">E</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fa8f00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1013,7 +1013,7 @@
            id="tspan1316"
            x="135.9713"
            y="265.8107"
-           style="fill:#fa8f00;fill-opacity:1;stroke-width:0.26458332">5</tspan></text>
+           style="fill:#fa8f00;fill-opacity:1;stroke-width:0.26458332">F</tspan></text>
       <text
          id="text1322"
          y="240.56929"
@@ -1024,7 +1024,7 @@
            y="240.56929"
            x="148.61909"
            id="tspan1320"
-           sodipodi:role="line">6</tspan></text>
+           sodipodi:role="line">G</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fa8f00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1035,7 +1035,7 @@
            id="tspan1324"
            x="123.76004"
            y="228.34535"
-           style="fill:#fa8f00;fill-opacity:1;stroke-width:0.26458332">7</tspan></text>
+           style="fill:#fa8f00;fill-opacity:1;stroke-width:0.26458332">H</tspan></text>
       <text
          id="text1330"
          y="253.19479"
@@ -1046,29 +1046,29 @@
            y="253.19479"
            x="123.70586"
            id="tspan1328"
-           sodipodi:role="line">8</tspan></text>
+           sodipodi:role="line">I</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fa8f00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="123.70586"
+         x="124.64729"
          y="277.72571"
          id="text1334"><tspan
            sodipodi:role="line"
            id="tspan1332"
-           x="123.70586"
+           x="124.64729"
            y="277.72571"
-           style="fill:#fa8f00;fill-opacity:1;stroke-width:0.26458332">9</tspan></text>
+           style="fill:#fa8f00;fill-opacity:1;stroke-width:0.26458332">J</tspan></text>
       <text
          id="text1338"
          y="290.1983"
-         x="134.64905"
+         x="136.0416"
          style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fa8f00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
            style="fill:#fa8f00;fill-opacity:1;stroke-width:0.26458332"
            y="290.1983"
-           x="134.64905"
+           x="136.0416"
            id="tspan1336"
-           sodipodi:role="line">10</tspan></text>
+           sodipodi:role="line">K</tspan></text>
     </g>
   </g>
 </svg>
